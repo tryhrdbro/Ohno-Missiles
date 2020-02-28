@@ -15,10 +15,7 @@ consumes: {
   }
   items: {
     items: [
-      surge-alloy/5
-      plastanium/10
-      thorium/10
-      blast-compound/16
+      surge-alloy/0
     ]
   }
 }
@@ -27,13 +24,7 @@ outputItem: {
   amount: 1
 }
 requirements: [
-  lead/2000
-  silicon/1000
-  graphite/1000
-  thorium/1600
-  surge-alloy/1250
-  plastanium/1080
-  phase-fabric/200
+  lead/0
 ]
 category: crafting
 research: spectre
