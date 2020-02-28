@@ -15,7 +15,7 @@ consumes: {
   }
   items: {
     items: [
-      surge-alloy/0
+      surge-alloy/1
     ]
   }
 }
