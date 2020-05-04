@@ -3,15 +3,15 @@ localizedName: "[#ff3333]Anti-Air Silo[]"
 description: Fires fast missiles that effectively blast down flying enemies.
 health: 2000
 size: 4
-reload: 1
+reload: 5
 range: 8000
 inaccuracy: 5
 shootCone: 25
 rotatespeed: 0.5
 targetAir: true
 targetGround: false
-maxAmmo: 9
-ammoPerShot:2
+maxAmmo: 90
+ammoPerShot:21
 heatColor: ff3333
 cooldown: 0.003
 shootEffect: nuclearShockwave
@@ -22,7 +22,7 @@ ammo: {
   missile: {
     type: MissileBulletType
     bulletShrink: 0
-    speed: 6
+    speed: 600
     damage: 2000
     splashDamage: 2000
     hitSize: 32
